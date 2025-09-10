@@ -1,3 +1,3 @@
-![Результат верстки письма](https://github.com/angelkrylova/Email_2shadesru/blob/main/интерьер.jpg)
+#   Email-письмо адаптирован под МП
 
-#   [Email-рассылкa](сформировать ссылку) адаптирована под МП
+![Результат верстки письма](https://github.com/angelkrylova/Email_2shadesru/blob/main/интерьер.jpg)
